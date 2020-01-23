@@ -1,0 +1,2 @@
+# giv-beginnig
+learn git
